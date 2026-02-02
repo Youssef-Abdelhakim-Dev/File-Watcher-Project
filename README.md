@@ -36,10 +36,3 @@ This script is perfect for system administrators, developers, or anyone who want
 - Permission to read/write in the monitored folder and log file path
 
 ---
-
-## Installation
-
-1. Clone the repository or download the script:
-
-```bash
-git clone https://github.com/yourusername/FileWatcher.git
