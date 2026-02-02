@@ -5,7 +5,7 @@
 
 ## Overview
 
-**FileWatcher.ps1** is a robust PowerShell script that monitors a folder (and optionally its subfolders) for all file changes in real-time. It logs events such as **file creation, modification, deletion, and renaming** to both the console and a log file.  
+It is robust PowerShell script that monitors a folder (and optionally its subfolders) for all file changes in real-time. It logs events such as **file creation, modification, deletion, and renaming** to both the console and a log file.  
 
 This script is perfect for system administrators, developers, or anyone who wants to **track changes in critical directories** for backup, audit, or monitoring purposes.
 
